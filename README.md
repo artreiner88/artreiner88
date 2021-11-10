@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<a target="_blank" href="https://www.linkedin.com/in/artur-reiner-96340113b/">LinkedIn Profile</a>
+<a target="_blank" href="https://www.linkedin.com/in/artur-reiner/">LinkedIn Profile</a>
 
 <!--
 **artreiner88/artreiner88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
