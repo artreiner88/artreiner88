@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-
-<img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="30" width="40" />
 <a target="_blank" href="https://www.linkedin.com/in/artur-reiner/">LinkedIn Profile</a>
 
 <!--
