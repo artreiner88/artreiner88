@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Berlin based QA Engineer with 7 years of experience in manual and automated testing. Skilled in test planning, execution, and defect tracking. Experienced in agile methodologies and collaborating with cross-functional teams to deliver reliable software. Strong problem-solving abilities and a commitment to continuous improvement.
+QA Engineer | Test Engineer
 
 <a target="_blank" href="https://www.linkedin.com/in/artur-reiner/">LinkedIn Profile</a>
 
