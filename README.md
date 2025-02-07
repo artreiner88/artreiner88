@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-QA Engineer | Test Engineer
+QA Engineer | Test Engineer 🕵️‍♂️ 🐞 
 
 <a target="_blank" href="https://www.linkedin.com/in/artur-reiner/" style="display: inline-flex; align-items: center; text-decoration: none; color: #0A66C2; font-size: 16px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20" style="margin-right: 8px; filter: brightness(0) saturate(100%) invert(15%) sepia(93%) saturate(3191%) hue-rotate(203deg) brightness(96%) contrast(92%);">
